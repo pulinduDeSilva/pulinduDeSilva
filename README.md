@@ -3,7 +3,7 @@ Passionate Full Stack Developer sharing personal projects and coding journey. Ex
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
