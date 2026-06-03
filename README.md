@@ -1,30 +1,62 @@
-<h2 align="left">Pulindu De Silva - Full Stack Developer
-Passionate Full Stack Developer sharing personal projects and coding journey. Explore my work on web development and more!</h2>
+# 👋 Hi, I'm Pulindu Vidmal
 
-###
+Computer Science Undergraduate | Full-Stack Developer | Fulltime Learner
+
+##  About Me
+
+*  Computer Science student with a strong interest in software engineering
+*  Currently learning about **Cloud Technologies**
+*  Learning and building back-end applications using **Spring Boot, Java, JPA, and REST APIs**
+*  Interested in RAG Systems, AI Integrated System Designs
+*  Committed to continuous learning and staying up to date with modern technologies
+
+*  Connect with me pulindudesilva2006@gmail.com
+*  Check out my portfolio https://pulindu.vercel.app/
+
+##  Technologies & Tools
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* REST APIs
+
+### Database
+
+* MySQL
+* PostgreSQL
+* JPA / Hibernate
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Postman
+* Figma
+* Photoshop
+* After Effects
 
 
+##  Goals
 
-###
+* Build production-ready full-stack applications
+* Contribute to open-source projects
+* Master backend development and system design
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-</div>
 
-###
+##  Connect With Me
 
-###
+Feel free to explore my repositories and projects.
+
+
