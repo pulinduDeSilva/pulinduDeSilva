@@ -1,58 +1,45 @@
 # 👋 Hi, I'm Pulindu Vidmal
 
-Computer Science Undergraduate | Full-Stack Developer | Fulltime Learner
+Computer Science Undergraduate | Full-Stack Developer | Unprofessional Cricketer
 
 ##  About Me
 
 *  Computer Science student with a strong interest in software engineering
-*  Currently learning about **Cloud Technologies**
+*  Currently learning about **Cloud Technologies, JWT Authentication and RAG Models**
 *  Learning and building back-end applications using **Spring Boot, Java, JPA, and REST APIs**
 *  Interested in RAG Systems, AI Integrated System Designs
 *  Committed to continuous learning and staying up to date with modern technologies
 
-*  Connect with me pulindudesilva2006@gmail.com
-*  Check out my portfolio https://pulindu.vercel.app/
+Connect with me pulindudesilva2006@gmail.com | [LinkedIn](https://www.linkedin.com/in/pulindu-de-silva/)<br>
+Check out my portfolio [Portfolio](https://pulindu.vercel.app/)
 
-##  Technologies & Tools
+<br>
 
-### Frontend
+## 💻 Technologies
 
-* React
-* TypeScript
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
+### Frontend Development
+[![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
 
-### Backend
+### Backend Development
+[![Backend Development](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
 
-* Java
-* Spring Boot
-* Spring Security
-* JWT Authentication
-* REST APIs
+### Database Management
+[![Database Management](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
-### Database
+### AI / NLP
+- Hugging Face
+- spaCY
 
-* MySQL
-* PostgreSQL
-* JPA / Hibernate
+### Development Tools
+[![Development Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,ps,ae)](https://skillicons.dev)
 
-### Tools
-
-* Git & GitHub
-* VS Code
-* Postman
-* Figma
-* Photoshop
-* After Effects
-
+<br/>
 
 ##  Goals
 
 * Build production-ready full-stack applications
 * Contribute to open-source projects
-* Master backend development and system design
+* Ranking up myself
 
 
 ##  Connect With Me
