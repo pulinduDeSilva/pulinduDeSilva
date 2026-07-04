@@ -21,10 +21,10 @@ Check out my portfolio [Portfolio](https://pulindu.vercel.app/)
 [![Frontend Development](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
 
 ### Backend Development
-[![Backend Development](https://skillicons.dev/icons?i=java,spring,python,fastapi)](https://skillicons.dev)
+[![Backend Development](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,express)](https://skillicons.dev)
 
 ### Database Management
-[![Database Management](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![Database Management](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 
 ### AI / NLP
 - Hugging Face
