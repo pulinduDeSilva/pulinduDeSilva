@@ -31,7 +31,7 @@ Check out my portfolio [Portfolio](https://pulindu.vercel.app/)
 - spaCY
 
 ### Development Tools
-[![Development Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,aws)](https://skillicons.dev)
+[![Development Tools](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,aws,docker)](https://skillicons.dev)
 
 <br/>
 
